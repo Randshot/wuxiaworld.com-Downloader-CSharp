@@ -1,0 +1,8 @@
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\www.wuxiaworld.com  downloader.exe.config
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\www.wuxiaworld.com  downloader.exe
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\www.wuxiaworld.com  downloader.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\HtmlAgilityPack.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\HtmlAgilityPack.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\HtmlAgilityPack.xml
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Release\www.wuxiaworld.com  downloader.exe
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Release\www.wuxiaworld.com  downloader.pdb

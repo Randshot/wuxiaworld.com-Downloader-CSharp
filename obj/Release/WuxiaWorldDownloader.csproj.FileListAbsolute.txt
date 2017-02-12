@@ -1,0 +1,12 @@
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\WuxiaWorldDownloader.exe.config
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\WuxiaWorldDownloader.exe
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\WuxiaWorldDownloader.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\HtmlAgilityPack.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\ManyConsole.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\NDesk.Options.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\HtmlAgilityPack.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\HtmlAgilityPack.xml
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Release\ManyConsole.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Release\WuxiaWorldDownloader.exe
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Release\WuxiaWorldDownloader.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Release\WuxiaWorldDownloader.csprojResolveAssemblyReference.cache

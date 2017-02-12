@@ -1,0 +1,11 @@
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\www.wuxiaworld.com  downloader.exe.config
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\www.wuxiaworld.com  downloader.exe
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\www.wuxiaworld.com  downloader.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\HtmlAgilityPack.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\ManyConsole.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\NDesk.Options.dll
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\HtmlAgilityPack.xml
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\bin\Debug\ManyConsole.pdb
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Debug\www.wuxiaworld.com  downloader.exe
+C:\Users\adria\Documents\GitHub\wuxiaworld.com-Downloader C#\obj\Debug\www.wuxiaworld.com  downloader.pdb
